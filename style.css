@@ -48,6 +48,12 @@ body{
     margin: 24px 0 0 0;
 }
 
+.title:hover{
+    cursor: pointer;
+    color: hsl(47, 88%, 63%);
+    width: fit-content;
+}
+
 .description{
     margin: 24px 0 0 0;
     font-size: 16px;
